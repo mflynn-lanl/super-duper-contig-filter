@@ -29,8 +29,8 @@ This sample module contains one small method that filters contigs.
     # the latter method is running.
     ######################################### noqa
     VERSION = "0.0.1"
-    GIT_URL = ""
-    GIT_COMMIT_HASH = ""
+    GIT_URL = "git@github.com:mflynn-lanl/super-duper-contig-filter.git"
+    GIT_COMMIT_HASH = "a7f8459b08398b3e9e0b8550001796aacd54a5b0"
 
     #BEGIN_CLASS_HEADER
     # Class variables and functions can be defined in this block
