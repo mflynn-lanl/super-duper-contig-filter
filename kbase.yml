@@ -1,0 +1,15 @@
+module-name:
+    mcflynn_ContigFilter
+
+module-description:
+    A KBase module for filtering contigs for min and max length
+
+service-language:
+    python
+
+module-version:
+    0.0.1
+
+owners:
+    [mcflynn]
+
